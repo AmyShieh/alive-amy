@@ -1,0 +1,21 @@
+{
+  "name": "alive-amy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx babel src --out-dir compiled",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmyShieh/alive-amy.git"
+  },
+  "keywords": ["aliveAmy", "alive-amy", "waterfall"],
+  "author": "aliveAmy <aliveAmy719@gmail.com> (https://github.com/AmyShieh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmyShieh/alive-amy/issues"
+  },
+  "homepage": "https://github.com/AmyShieh/alive-amy#readme"
+}
